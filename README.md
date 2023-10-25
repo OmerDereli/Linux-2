@@ -2,6 +2,7 @@
 Let's dive more in Linux commands
 
 **Process Management**:
+
 1-1-Launch a terminal and use the "ps" command to list all running processes.
 ```
 $ ps -e #(all running process)
@@ -157,6 +158,7 @@ $ tail -f -n 5 /var/log/syslog
 -------------------------------------------------------------------------------------- 
 
 **Basic Shell Scripting - Automation**:
+
 5-1 Write a Bash script that automates a simple task, such as creating backups of a specific directory.
 ```    
 #note:"env" or "which bash" to see location
